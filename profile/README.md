@@ -13,9 +13,9 @@ IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|[**IdSw1**](https://github.com/puntoRe
 
 <div align=center>
 
-|pyAscensores|pyLaberinto|pyExpendedoras|pyHojaDeCalculo|
+|pyAscensores|pyMundo|pyExpendedoras|pyHojaDeCalculo|
 |:-:|:-:|:-:|:-:|
-|<img src="https://raw.githubusercontent.com/puntoReflex/pyAscensores/main/images/pyAscensores.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyLaberinto/main/images/pyLaberinto.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyExpendedoras/main/images/pyExpendedoras.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyHojaDeCalculo/main/images/pyHojaDeCalculo.png">|
+|<img src="https://raw.githubusercontent.com/puntoReflex/pyAscensores/main/images/pyAscensores.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyMundo/main/images/pyMundo.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyExpendedoras/main/images/pyExpendedoras.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyHojaDeCalculo/main/images/pyHojaDeCalculo.png">|
 PRG1 / PRG2|PRG1 / PRG2|PRG1 / PRG2|PRG1 / PRG2|
 EDA1 / EDA2|EDA1 / EDA2|EDA1 / EDA2|EDA1 / EDA2
 IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
