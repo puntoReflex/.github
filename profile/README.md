@@ -4,7 +4,7 @@
 |:-:|:-:|:-:|:-:|
 |[pyAspiradora](https://github.com/puntoReflex/pyAspiradora)|[pyTelefono](https://github.com/puntoReflex/pyTelefonoDescacharrado)|[pyBatalla](https://github.com/puntoReflex/pyBatalla)|[pyCCCF](https://github.com/puntoReflex/pyCCCF)|
 **PRG1** / PRG2|[**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) / PRG2|PRG1 / PRG2|[**PRG1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/README.md) / PRG2|
-EDA1 / EDA2|**EDA1** / EDA2|EDA1 / EDA2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md) / EDA2|
+EDA1 / EDA2|[**EDA1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vEDA1/README.md) / EDA2|EDA1 / EDA2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md) / EDA2|
 IdSw1 / IdSw2|**IdSw1** / IdSw2|**IdSw1** / IdSw2|[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md) / IdSw2|
 
 </div>
