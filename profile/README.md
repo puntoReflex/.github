@@ -20,28 +20,19 @@ IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
 
 </div>
 
-## ProyectosCandidatos
+## Proyectos y retos candidatos
 
 <div align=center>
 
 ||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-[pyViajeDeMarco](retos&proyectos/viajeMarco.md)|
+[pyViajeDeMarco](/retos&proyectos/viajeMarco.md)
 pyCaracol
 pyWhacAMole
 pyCarreraDeCamellos
 pyEdlin
 pyRescate
 pyDiasDietasIngestas
-
-</div>
-
-## Retos
-
-<div align=center>
-
-||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
-|-|:-:|:-:|:-:|:-:|:-:|:-:|
 rtForIf
 rtExamenAutomatico
 rtEscalasAcordes

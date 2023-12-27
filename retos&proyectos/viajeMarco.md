@@ -1,4 +1,4 @@
-<img src="../../images/viajeMarco.png" width="40%" align="right"/>
+<img src="../images/viajeMarco.png" width="40%" align="right"/>
 
 # El viaje de Marco
 
