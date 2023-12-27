@@ -4,7 +4,7 @@
 
 ## Introducción
 
-> *Marco, de los Apeninos a los Andes* es un relato breve de ficción incluido por Edmundo de Amicis en su novela Corazón, publicada en 1886. Narra la historia del extenso y complicado viaje de un niño de trece años, Marco, desde Italia hacia Argentina, en busca de su madre, que había emigrado a aquel país sudamericano dos años antes. [Fuente: Wikipedia](https://es.wikipedia.org/wiki/Marco,_de_los_Apeninos_a_los_Andes)
+> **[Marco, de los Apeninos a los Andes](https://es.wikipedia.org/wiki/Marco,_de_los_Apeninos_a_los_Andes)** *es un relato breve de ficción incluido por Edmundo de Amicis en su novela Corazón, publicada en 1886. Narra la historia del extenso y complicado viaje de un niño de trece años, Marco, desde Italia hacia Argentina, en busca de su madre, que había emigrado a aquel país sudamericano dos años antes.*
 
 En Génova, al norte de Italia, reside una familia con dos hijos de dieciocho y once años. La madre se ve obligada a marchar a Argentina para encontrar trabajo sirviendo en una casa. Durante un tiempo la familia recibe, por escrito, noticias de la madre, pero al cabo de un año las cartas cesan, luego de una en la que se daba cuenta de problemas de salud, con lo que se crea una situación de preocupación e incertidumbre.
 
