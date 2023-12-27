@@ -28,15 +28,15 @@ IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 [pyViajeDeMarco](/retos&proyectos/viajeMarco.md)
 [pyCaracol](/retos&proyectos/unCaracol.md)
-pyWhacAMole
-pyCarreraDeCamellos
-pyEdlin
-pyRescate
-pyDiasDietasIngestas
-rtForIf
-rtExamenAutomatico
-rtEscalasAcordes
-rtJuegoHerradura
-rtAdivinaNumero
+[pyWhacAMole](/retos&proyectos/whacAMole.md)
+[pyCarreraDeCamellos](/retos&proyectos/carreraCamellos.md)
+[pyEdlin](/retos&proyectos/Edlin.md)
+[pyRescate](/retos&proyectos/unRescate.md)
+[pyDiasDietasIngestas](/retos&proyectos/diasDietasIngestas.md)
+[rtForIf](/retos&proyectos/forIf.md)
+[rtExamenAutomatico](/retos&proyectos/examenAutomatico.md)
+[rtEscalasAcordes](/retos&proyectos/escalasAcordes.md)
+[rtJuegoHerradura](/retos&proyectos/juegoHerradura.md)
+[rtAdivinaNumero](/retos&proyectos/adivinaNumero.md)
 
 </div>
