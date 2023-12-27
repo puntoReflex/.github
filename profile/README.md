@@ -22,17 +22,30 @@ IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
 
 ## ProyectosCandidatos
 
-- pyViajeDeMarco
-- pyCaracol
-- pyCarreraDeCamellos
-- pyEdlin
-- pyRescate
-- pyDiasDietasIngestas
+<div align=center>
+
+||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+pyViajeDeMarco|
+pyCaracol
+pyWhacAMole
+pyCarreraDeCamellos
+pyEdlin
+pyRescate
+pyDiasDietasIngestas
+
+</div>
 
 ## Retos
 
-- rtForIf
-- rtExamenAutomatico
-- rtEscalasAcordes
-- rtJuegoHerradura
-- rtAdivinaTramposoConPistasTrampa
+<div align=center>
+
+||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+rtForIf
+rtExamenAutomatico
+rtEscalasAcordes
+rtJuegoHerradura
+rtAdivinaNumero
+
+</div>
