@@ -1,3 +1,5 @@
+# Proyectos
+
 <div align=center>
 
 |[pyAspiradora](https://github.com/puntoReflex/pyAspiradora)|[pyTelefono](https://github.com/puntoReflex/pyTelefonoDescacharrado)|[pyBatalla](https://github.com/puntoReflex/pyBatalla)|[pyCCCF](https://github.com/puntoReflex/pyCCCF)|
@@ -7,11 +9,7 @@ PRG1 / PRG2|[**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/bl
 EDA1 / EDA2|[**EDA1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vEDA1/README.md) / EDA2|EDA1 / EDA2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md) / EDA2|
 IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md) / IdSw2|
 
-</div>
-
 ---
-
-<div align=center>
 
 |[pyAscensores](https://github.com/puntoReflex/pyAscensores)|[pyMundo](https://github.com/puntoReflex/pyMundo)|[pyExpendedoras](https://github.com/puntoReflex/pyExpendedoras)|[pyHojaDeCalculo](https://github.com/puntoReflex/pyHojaDeCalculo)|
 |:-:|:-:|:-:|:-:|
@@ -20,5 +18,21 @@ PRG1 / PRG2|PRG1 / PRG2|PRG1 / PRG2|PRG1 / PRG2|
 EDA1 / EDA2|EDA1 / EDA2|EDA1 / EDA2|EDA1 / EDA2
 IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
 
-
 </div>
+
+## ProyectosCandidatos
+
+- pyViajeDeMarco
+- pyCaracol
+- pyCarreraDeCamellos
+- pyEdlin
+- pyRescate
+- pyDiasDietasIngestas
+
+## Retos
+
+- rtForIf
+- rtExamenAutomatico
+- rtEscalasAcordes
+- rtJuegoHerradura
+- rtAdivinaTramposoConPistasTrampa
