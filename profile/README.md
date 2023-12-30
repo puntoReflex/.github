@@ -1,5 +1,7 @@
 # Proyectos
 
+> Acerca del [*proceso de creación*](procesoDeCreacion.md)
+
 <div align=center>
 
 | [pyCCCF](https://github.com/puntoReflex/pyCCCF) | [pyTelefono](https://github.com/puntoReflex/pyTelefonoDescacharrado) | [pyAspiradora](https://github.com/puntoReflex/pyAspiradora) | [pyBatalla](https://github.com/puntoReflex/pyBatalla) |
