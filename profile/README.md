@@ -1,6 +1,8 @@
 # Proyectos
 
-> Acerca del [*proceso de creación*](https://github.com/puntoReflex/.github/blob/main/procesoDeCreacion.md)
+> [*"Acerca de"*](https://github.com/puntoReflex/.github/blob/main/procesoDeCreacion.md) del proceso de creación: una propuesta de cómo leer este repo...
+
+---
 
 <div align=center>
 
