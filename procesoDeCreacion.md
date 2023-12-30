@@ -7,7 +7,9 @@ Además, se hace un esfuerzo constante por documentar detalladamente el proceso 
 
 ## Ejemplo
 
-Para el caso del problema del CCCF ([ver enunciado](https://github.com/puntoReflex/pyCCCF/blob/main/enunciado.md)), el código fuente de la solución de acuerdo a lo aprendido en Programación 1 [está aquí](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java). Pero además, los [commits](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java) de dicho archivo lo presentan en diversos estadios de su creación, de modo que puede verse como ha ido evolucionando desde el [inicio](https://github.com/puntoReflex/pyCCCF/blob/27b17731c49bc0f0742e52dfaa5b2e593a92820e/src/vPRG1/CCCF.java) de su construcción hasta el [final](https://github.com/puntoReflex/pyCCCF/blob/b6c3ae9e96053c61efaa72df25cf466732c38946/src/vPRG1/CCCF.java). Cada commit detalla la decisión abordada, de modo que puede leerse históricamente (de abajo hacia arriba).
+Para el caso del reto del CCCF ([ver enunciado](https://github.com/puntoReflex/pyCCCF/blob/main/enunciado.md)), el código fuente de la solución de acuerdo a lo aprendido en Programación 1 [está aquí](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java). 
+
+Además, los [commits](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java) de dicho archivo permiten situarnos en diversos estadios de su creación, de modo que puede verse como ha ido evolucionando desde el [inicio](https://github.com/puntoReflex/pyCCCF/blob/27b17731c49bc0f0742e52dfaa5b2e593a92820e/src/vPRG1/CCCF.java) de su construcción hasta el [final](https://github.com/puntoReflex/pyCCCF/blob/b6c3ae9e96053c61efaa72df25cf466732c38946/src/vPRG1/CCCF.java). Cada commit detalla la decisión abordada, de modo que puede leerse históricamente (de abajo hacia arriba).
 
 <div align=center>
 
