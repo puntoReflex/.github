@@ -1,6 +1,6 @@
 # Proyectos
 
-> Acerca del [*proceso de creación*](procesoDeCreacion.md)
+> Acerca del [*proceso de creación*](../procesoDeCreacion.md)
 
 <div align=center>
 
