@@ -30,7 +30,7 @@ IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
 
 ||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-[pyViajeDeMarco](/retos&proyectos/viajeMarco.md)
+[pyViajeDeMarco](/retos&proyectos/viajeMarco/README.md)
 [pyCaracol](/retos&proyectos/unCaracol.md)
 [pyWhacAMole](/retos&proyectos/whacAMole.md)
 [pyCarreraDeCamellos](/retos&proyectos/carreraCamellos.md)
