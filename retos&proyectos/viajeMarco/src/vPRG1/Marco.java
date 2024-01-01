@@ -14,8 +14,19 @@ class Marco {
 
         while (onJourney) {
             days++;
+            double marcoVelocity = Math.random() * 5 + 10;
+            double marcoTime = Math.random() * 2 + 8;
+            double marcoAdvance = marcoVelocity * marcoTime;
+
+            remainingDistance = remainingDistance - marcoAdvance + MOTHER_ADVANCE;
+
+            System.out.println("Dia " + days);
+            System.out.println("Marco avanzó " + marcoAdvance);
+            System.out.println("Lo separa de su madre " + remainingDistance + " Km.");
+            System.out.println("-".repeat(10));
 
             onJourney = remainingDistance > 0;
         }
+        System.out.println("Marco se encuentra con su madre después de " + days + " días!");
     }
 }
