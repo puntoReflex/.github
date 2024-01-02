@@ -5,15 +5,33 @@ Las soluciones aquí expuestas, en su mayoría, son propuestas tentativas, dado 
 
 Además, se hace un esfuerzo constante por documentar detalladamente el proceso creativo. Esto incluye no solo el código final, sino también los criterios considerados durante su desarrollo, la secuencia de su aplicación y cualquier debate o incertidumbre que surgiera en el camino. El objetivo es brindar una comprensión completa de cómo y por qué se llegó a la solución final.
 
-## Ejemplo
+## ¿Cómo?
 
-Para el caso del reto del CCCF ([ver enunciado](https://github.com/puntoReflex/pyCCCF/blob/main/enunciado.md)), el código fuente de la solución de acuerdo a lo aprendido en Programación 1 [está aquí](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java). 
-
-Además, los [commits](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java) de dicho archivo permiten situarnos en diversos estadios de su creación, de modo que puede verse como ha ido evolucionando desde el [inicio](https://github.com/puntoReflex/pyCCCF/blob/27b17731c49bc0f0742e52dfaa5b2e593a92820e/src/vPRG1/CCCF.java) de su construcción hasta el [final](https://github.com/puntoReflex/pyCCCF/blob/b6c3ae9e96053c61efaa72df25cf466732c38946/src/vPRG1/CCCF.java). Cada commit detalla la decisión abordada, de modo que puede leerse históricamente (de abajo hacia arriba).
+Para el caso de un reto, por ejemplo el CCCF, tendríamos:
 
 <div align=center>
 
-[![](/images/commits_cccf.png)](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java)
+|[pyCCCF](https://github.com/puntoReflex/pyCCCF)|⬅️ Página principal|
+|:-:|-|
+<a href="https://github.com/puntoReflex/pyCCCF/blob/main/enunciado.md"><img src="https://raw.githubusercontent.com/puntoReflex/pyCCCF/main/imagenes/shoppingCF.png" width=200></a>|⬅️ Enunciado
+[**PRG1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/README.md) / PRG2| ⬅️↙️ Propuestas de solución
+[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md) / EDA2
+BD1 / BD2
+[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md) / IdSw2 
+SdPp / SiC
+PWeb1 / PWeb2
+
+</div>
+
+### Las propuestas de solución
+
+Los [commits](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java) de los archivos que componen la solución han de permitir situarnos en diversos estadios de su creación, de modo que pueda verse como ha ido evolucionando desde el [inicio](https://github.com/puntoReflex/pyCCCF/blob/27b17731c49bc0f0742e52dfaa5b2e593a92820e/src/vPRG1/CCCF.java) de su construcción hasta el [final](https://github.com/puntoReflex/pyCCCF/blob/b6c3ae9e96053c61efaa72df25cf466732c38946/src/vPRG1/CCCF.java). Cada commit detalla la decisión abordada, de modo que puede leerse históricamente (de abajo hacia arriba).
+
+<div align=center>
+
+|Commit|Commit esquema|Commit detallado|
+|-|-|-|
+[![](/images/commits_cccf.png)](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java)|[![](/images/commitEsquema.png)](https://github.com/puntoReflex/.github/commits/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java)|[![](/images/commitDetalle.png)](https://github.com/puntoReflex/.github/commits/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java)|
 
 </div>
 
