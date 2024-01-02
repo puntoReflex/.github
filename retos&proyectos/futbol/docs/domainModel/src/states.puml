@@ -1,0 +1,26 @@
+@startuml
+
+State Encounter {
+  [*] -d-> Start
+
+  State clock <<choice>>
+  State Start
+  State MidPeriod
+
+  State Period {
+    Kickoff -d-> InPlay
+    InPlay -r-> Stopped
+    Stopped -u-> Kickoff  
+  }
+
+Start -d-> Period
+
+Period-r-> clock : Time is up
+clock -u-> MidPeriod : Periods remain
+clock -r-> [*] : No periods remain
+
+MidPeriod -l-> Start
+  
+}
+
+@enduml

@@ -1,0 +1,69 @@
+@startuml
+
+object "referee : Referee" as referee {
+role = "First referee"
+}
+
+object "referee2 : Referee" as referee2 {
+role = "line judge"
+}
+
+object "referee3 : Referee" as referee3 {
+role = "line judge"
+}
+
+object "match : Match" as match
+
+match -l-- referee : "Directs <" 
+referee2 -d-- referee : "> Collaborates with"
+referee3 -u-- referee : "> Collaborates with"
+
+object "Real Madrid : Team" as teamMadrid
+object "Barcelona : Team" as teamBarcelona
+
+object "lineupMadrid : Lineup" as lineupMadrid
+object "lineupBarcelona : Lineup" as lineupBarcelona
+
+match -u- teamBarcelona
+match -d- teamMadrid
+
+object "firstHalf : Period" as firstHalf
+' object "secondHalf : Period" as secondHalf
+
+object "encounter: Encounter" as encounter {
+name = "Clásico"
+date = "12/10/2022"
+}
+
+match -r- encounter
+
+encounter -- firstHalf
+
+object "player1: Player" as player1 {
+name="Iker Casillas"
+starter = TRUE
+}
+
+object "player2 Player" as player2 {
+name="Raul"
+starter = TRUE
+}
+
+object "player3 Player" as player3 {
+name="Sancochado"
+starter = FALSE
+}
+
+teamMadrid -d- lineupMadrid
+teamBarcelona -u- lineupBarcelona
+
+lineupMadrid -- player1
+lineupMadrid -- player2
+lineupMadrid -- player3
+
+note "The encounter\nstarts with 11 players" as note1
+
+player2 .r. note1
+note1 .r. player3
+
+@enduml

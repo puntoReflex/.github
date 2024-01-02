@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="412px" preserveAspectRatio="none" style="width:472px;height:412px;background:#FFFFFF;" version="1.1" viewBox="0 0 472 412" width="472px" zoomAndPan="magnify"><defs/><g><path d="M19.5,7 L446,7 A12.5,12.5 0 0 1 458.5,19.5 L458.5,36.0679 L7,36.0679 L7,19.5 A12.5,12.5 0 0 1 19.5,7 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="399.1358" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="451.5" x="7" y="7"/><line style="stroke:#181818;stroke-width:0.5;" x1="7" x2="458.5" y1="36.0679" y2="36.0679"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="198.25" y="26.9659">Encounter</text><ellipse cx="175.5" cy="57.0679" fill="#222222" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="Encounter.Start"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="52" x="149.5" y="104.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="149.5" x2="201.5" y1="133.1358" y2="133.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="159.5" y="124.0339">Start</text></g><g id="elem_clock"><polygon fill="#F1F1F1" points="287.5,290.5679,299.5,302.5679,287.5,314.5679,275.5,302.5679,287.5,290.5679" style="stroke:#181818;stroke-width:0.5;"/></g><g id="Encounter.MidPeriod"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="89" x="231" y="104.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="231" x2="320" y1="133.1358" y2="133.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="241" y="124.0339">MidPeriod</text></g><ellipse cx="440.5" cy="302.5679" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="441" cy="303.0679" fill="#222222" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><path d="M31.5,209.0679 L183,209.0679 A12.5,12.5 0 0 1 195.5,221.5679 L195.5,238.1358 L19,238.1358 L19,221.5679 A12.5,12.5 0 0 1 31.5,209.0679 " fill="#F1F1F1" style="stroke:#F1F1F1;stroke-width:1.0;"/><rect fill="none" height="187.0679" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="176.5" x="19" y="209.0679"/><line style="stroke:#181818;stroke-width:0.5;" x1="19" x2="195.5" y1="238.1358" y2="238.1358"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="85.75" y="229.0339">Period</text><g id="Encounter.Period.Kickoff"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="65" x="72" y="250.1358"/><line style="stroke:#181818;stroke-width:0.5;" x1="72" x2="137" y1="279.2038" y2="279.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="82" y="270.1018">Kickoff</text></g><g id="Encounter.Period.InPlay"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="61" x="31" y="336.1358"/><line style="stroke:#181818;stroke-width:0.5;" x1="31" x2="92" y1="365.2038" y2="365.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="41" y="356.1018">InPlay</text></g><g id="Encounter.Period.Stopped"><rect fill="#F1F1F1" height="50" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="110.5" y="336.1358"/><line style="stroke:#181818;stroke-width:0.5;" x1="110.5" x2="186.5" y1="365.2038" y2="365.2038"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="120.5" y="356.1018">Stopped</text></g><!--MD5=[0cd085f1902a5e07b5f4e4112f884951]
+link Kickoff to InPlay--><g id="link_Kickoff_InPlay"><path d="M92.06,300.4358 C87.12,310.0958 81.38,321.2958 76.23,331.3558 " fill="none" id="Kickoff-to-InPlay" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="73.91,335.8958,81.5761,329.7127,76.1916,331.4467,74.4576,326.0622,73.91,335.8958" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b5f88f0ed760986a01e7a94398e9e112]
+link InPlay to Stopped--><g id="link_InPlay_Stopped"><path d="M92.09,361.1358 C96.42,361.1358 100.74,361.1358 105.07,361.1358 " fill="none" id="InPlay-to-Stopped" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="110.16,361.1358,101.16,357.1358,105.16,361.1358,101.16,365.1358,110.16,361.1358" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f0397908c8a207e3c51cd1aa0c82e90d]
+reverse link Kickoff to Stopped--><g id="link_Kickoff_Stopped"><path d="M119.6,304.9658 C124.88,315.0458 130.74,326.2358 135.8,335.8958 " fill="none" id="Kickoff-backto-Stopped" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="117.23,300.4358,117.8781,310.2633,119.557,304.8614,124.959,306.5402,117.23,300.4358" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a524b2eac4066e8b1bb1db0eef75e97d]
+link *start*Encounter to Start--><g id="link_*start*Encounter_Start"><path d="M175.5,67.2179 C175.5,75.2579 175.5,87.3979 175.5,98.7179 " fill="none" id="*start*Encounter-to-Start" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="175.5,103.8479,179.5,94.8479,175.5,98.8479,171.5,94.8479,175.5,103.8479" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5da29b83657506377424564cb2d3339a]
+link Start to Period--><g id="link_Start_Period"><path d="M165.9,154.2779 C160.54,167.8079 153.46,185.6679 146.08,204.2579 " fill="none" id="Start-to-Period" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="144.2,209.0079,151.2382,202.1185,146.0446,204.3606,143.8025,199.1671,144.2,209.0079" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[936614f288a0bae9152d698b0b1195e8]
+link Period to clock--><g id="link_Period_clock"><path d="M196.18,302.5679 C224.49,302.5679 252.97,302.5679 270.42,302.5679 " fill="none" id="Period-to-clock" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="275.47,302.5679,266.47,298.5679,270.47,302.5679,266.47,306.5679,275.47,302.5679" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="205.75" y="295.4649">Time is up</text></g><!--MD5=[9a63045912a038bb61538f146afcc049]
+reverse link MidPeriod to clock--><g id="link_MidPeriod_clock"><path d="M277.55,159.3579 C280.28,198.4379 284.99,265.6579 286.78,291.2579 " fill="none" id="MidPeriod-backto-clock" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="277.19,154.2779,273.8433,163.5407,277.5473,159.2651,281.8228,162.9691,277.19,154.2779" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="90" x="280.5" y="186.9649">Periods remain</text></g><!--MD5=[18e383e4316fbfb7e0fc46c8d2cc2084]
+link clock to *end*Encounter--><g id="link_clock_*end*Encounter"><path d="M299.51,302.5679 C326.96,302.5679 394.32,302.5679 424.92,302.5679 " fill="none" id="clock-to-*end*Encounter" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="430.19,302.5679,421.19,298.5679,425.19,302.5679,421.19,306.5679,430.19,302.5679" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="111" x="309.5" y="295.4649">No periods remain</text></g><!--MD5=[72375e348660e4e004f0eebd2c791794]
+reverse link Start to MidPeriod--><g id="link_Start_MidPeriod"><path d="M206.68,129.0679 C214.72,129.0679 222.76,129.0679 230.8,129.0679 " fill="none" id="Start-backto-MidPeriod" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="201.67,129.0679,210.67,133.0679,206.67,129.0679,210.67,125.0679,201.67,129.0679" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[581ab649332feec13b01e0102b6460f2]
+@startuml
+
+State Encounter {
+  [*] -d-> Start
+
+  State clock <<choice>>
+  State Start
+  State MidPeriod
+
+  State Period {
+    Kickoff -d-> InPlay
+    InPlay -r-> Stopped
+    Stopped -u-> Kickoff  
+  }
+
+Start -d-> Period
+
+Period-r-> clock : Time is up
+clock -u-> MidPeriod : Periods remain
+clock -r-> [*] : No periods remain
+
+MidPeriod -l-> Start
+  
+}
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

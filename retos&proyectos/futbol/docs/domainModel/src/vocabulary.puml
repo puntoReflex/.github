@@ -1,0 +1,21 @@
+@startuml
+
+Match -l-> Encounter: Takes place in a >
+Encounter *-d- Period: Consists of one or several >
+
+Match *-- Rules: Follows various >
+
+Match <-- Lineup: Competes in <
+Match <--- Referee: Directs <
+
+Team -u-> Lineup: Presents >
+
+Player -r-* Team: Belongs to >
+
+Person <|-- Referee
+Person <|-- Player
+
+Referee ... Rules: Validates compliance with >
+Player ... Rules: Must respect >
+
+@enduml
