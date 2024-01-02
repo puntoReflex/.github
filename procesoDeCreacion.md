@@ -1,6 +1,8 @@
 # Proceso de creación
 <!-- TODO: #1 Esquematizarlo en xQ,Q,pQ,C -->
 
+> El viaje
+
 Las soluciones aquí expuestas, en su mayoría, son propuestas tentativas, dado que existen diversas maneras de abordar estos problemas. Sin embargo, todas ellas se han diseñado siguiendo principios específicos para asegurar que son soluciones efectivas y coherentes con su entorno y contexto: no es lo mismo intentar resolverlo con los conocimientos adquiridos en la asignatura de Programación 1 que con los que se han acumulado cuando se está cursando Programación 2 o Ingeniería del Software 2.
 
 Además, se hace un esfuerzo constante por documentar detalladamente el proceso creativo. Esto incluye no solo el código final, sino también los criterios considerados durante su desarrollo, la secuencia de su aplicación y cualquier debate o incertidumbre que surgiera en el camino. El objetivo es brindar una comprensión completa de cómo y por qué se llegó a la solución final.
