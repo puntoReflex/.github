@@ -35,7 +35,7 @@ IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
 [pyCaracol](/retos&proyectos/unCaracol.md)
 [pyWhacAMole](/retos&proyectos/whacAMole.md)
 [pyCarreraDeCamellos](/retos&proyectos/carreraCamellos.md)
-[pyEdlin](/retos&proyectos/edlin.md)
+[pyEdlin](/retos&proyectos/edlin/README.md)
 [pyRescate](/retos&proyectos/unRescate.md)
 [pyDiasDietasIngestas](/retos&proyectos/diasDietasIngestas.md)
 [rtForIf](/retos&proyectos/forIf.md)
