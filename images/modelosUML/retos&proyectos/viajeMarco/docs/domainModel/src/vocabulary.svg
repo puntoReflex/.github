@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="366px" preserveAspectRatio="none" style="width:224px;height:366px;background:#FFFFFF;" version="1.1" viewBox="0 0 224 366" width="224px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbce319ede366ca1af4972d1271ac7ac]
+class Marco--><g id="elem_Marco"><rect fill="#F1F1F1" height="29.0679" id="Marco" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="48" x="57.5" y="223"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="60.5" y="242.9659">Marco</text></g><!--MD5=[835694211bb6af5e48896317f88b0797]
+class Climate--><g id="elem_Climate"><rect fill="#F1F1F1" height="29.0679" id="Climate" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="57" x="7" y="331"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="10" y="350.9659">Climate</text></g><!--MD5=[16db7195a0095ca5c66dab5413ba4510]
+class Amedio--><g id="elem_Amedio"><rect fill="#F1F1F1" height="29.0679" id="Amedio" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="57" x="99" y="331"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="102" y="350.9659">Amedio</text></g><!--MD5=[cc15daeb8b4e6bacf34831777829d2c1]
+class Distance--><g id="elem_Distance"><rect fill="#F1F1F1" height="29.0679" id="Distance" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="64" x="98.5" y="115"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="101.5" y="134.9659">Distance</text></g><!--MD5=[389352b9f0e385ca8660602f519663e4]
+class Mother--><g id="elem_Mother"><rect fill="#F1F1F1" height="29.0679" id="Mother" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="55" x="152" y="223"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="155" y="242.9659">Mother</text></g><!--MD5=[2e42295458bb0bec21c9622a623eb29e]
+class Time--><g id="elem_Time"><rect fill="#F1F1F1" height="29.0679" id="Time" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="39" x="111" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="114" y="26.9659">Time</text></g><!--MD5=[3cd8e6a51723d17d97cb806cb138b8db]
+link Marco to Climate--><g id="link_Marco_Climate"><path codeLine="5" d="M58.93,252.12 C48.84,259.56 38,269.76 32.5,282 C25.46,297.66 28.26,317.79 31.42,330.92 " fill="none" id="Marco-Climate" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#000000" points="39.148,287.1324,33.392,294.7034,38.9414,296.6407,39.148,287.1324" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="46.5" y="296.897">Afecta</text></g><!--MD5=[c7f1bbff828024712fcb36bb20eacf41]
+link Marco to Amedio--><g id="link_Marco_Amedio"><path codeLine="6" d="M87.51,252.36 C96.38,272.78 112.85,310.74 121.63,330.97 " fill="none" id="Marco-Amedio" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#000000" points="112.5092,287.2664,113.4146,296.7338,118.8065,294.3935,112.5092,287.2664" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="37" x="123.5" y="296.897">Afecta</text></g><!--MD5=[b420e7cb6e5f793a6b80ee1d1a15f677]
+link Distance to Marco--><g id="link_Distance_Marco"><path codeLine="8" d="M106.31,144.01 C95.69,151.37 84.33,161.52 78.5,174 C71.23,189.55 74.08,209.71 77.32,222.87 " fill="none" id="Distance-Marco" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#000000" points="85.2252,179.1601,79.3458,186.6356,84.8627,188.6637,85.2252,179.1601" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="92.5" y="188.897">Avanza</text></g><!--MD5=[20fd3dc09437ffe8a8425f532d9f6a7d]
+link Distance to Mother--><g id="link_Distance_Mother"><path codeLine="10" d="M136.91,144.36 C146.35,164.78 163.89,202.74 173.25,222.97 " fill="none" id="Distance-Mother" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#000000" points="162.4019,179.3145,163.5297,188.758,168.865,186.2915,162.4019,179.3145" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="173.5" y="188.897">Avanza</text></g><!--MD5=[8f08adf2b0c1f7d5ac3ac3454958820d]
+link Time to Distance--><g id="link_Time_Distance"><path codeLine="12" d="M130.5,36.36 C130.5,56.78 130.5,94.74 130.5,114.97 " fill="none" id="Time-Distance" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#000000" points="135.5,80.853,138.4389,71.8079,132.5611,71.8079,135.5,80.853" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="144.5" y="80.897">Pasa</text></g><!--MD5=[9d09db53c34693d4d8d6b3c67852aea0]
+@startuml
+
+hide empty members
+hide circle
+
+Marco - - Climate: < Afecta
+Marco - - Amedio: < Afecta
+
+Marco -u- Distance: > Avanza
+
+Distance -d- Mother: < Avanza
+
+Time -d- Distance: > Pasa
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: ES
+--></g></svg>

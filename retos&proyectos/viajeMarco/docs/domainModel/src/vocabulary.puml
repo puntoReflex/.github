@@ -1,0 +1,15 @@
+@startuml
+
+hide empty members
+hide circle
+
+Marco -- Climate: < Afecta
+Marco -- Amedio: < Afecta
+
+Marco -u- Distance: > Avanza
+
+Distance -d- Mother: < Avanza
+
+Time -d- Distance: > Pasa
+
+@enduml
