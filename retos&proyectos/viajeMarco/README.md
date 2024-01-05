@@ -8,5 +8,4 @@
 
 |Versión|
 |-|
-[PRG1](./src/vPRG1/Marco.java)
 [IdSw1](./docs/README.md)
