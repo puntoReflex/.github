@@ -64,9 +64,9 @@ class Edlin {
                 delete(document, activeLine);
                 break;
         }
-        return true;        
+        return true;
     }
-    
+
     static char askChar() {
         Scanner input = new Scanner(System.in);
         return input.next().charAt(0);
@@ -79,6 +79,13 @@ class Edlin {
     }
 
     static void edit(String[] document, int[] activeLine) {
+        System.out.println("EDITANDO> " + document[activeLine[0]]);
+        document[activeLine[0]] = askString();
+    }
+
+    static String askString() {
+        Scanner input = new Scanner(System.in);
+        return input.nextLine();
     }
 
     static void setActiveLine(String[] document, int[] activeLine) {
