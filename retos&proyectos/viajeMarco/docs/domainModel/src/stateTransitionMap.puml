@@ -1,0 +1,51 @@
+@startuml
+
+state onJourney {
+state Marco{
+
+[*] --> MarcoSpeed
+[*] --> MarcoTime
+
+state Weather{
+
+[*] --> GoodWeather
+[*] --> LightRain : 30 %
+[*] --> HeavyRain : 10 %
+}
+
+state Amedio{
+
+[*] --> Calm
+[*] --> Escapes : 15 %
+[*] --> Tired : 25 %
+Escapes -> Tired: 15 %
+Tired -> Escapes: 25 %
+}
+
+HeavyRain ---> MarcoSpeed : affects
+LightRain ---> MarcoSpeed : affects
+
+Escapes ---> MarcoTime : affects
+Tired ---> MarcoSpeed : affects
+
+MarcoTime --> MarcoAdvance
+MarcoSpeed --> MarcoAdvance
+
+}
+
+state Mother {
+    [*] --> MotherAdvance
+}
+
+MotherAdvance --> Distance
+MarcoAdvance --> Distance
+
+}
+
+onJourney ---> onJourney : [Distance > 0]
+
+onJourney --> Happyness : [Distance = 0]
+
+Happyness --> [*]
+
+@enduml

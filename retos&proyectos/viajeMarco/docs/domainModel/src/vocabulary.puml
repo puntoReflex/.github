@@ -3,13 +3,17 @@
 hide empty members
 hide circle
 
-Marco -- Climate: < Afecta
+Marco -- Weather: < Afecta
 Marco -- Amedio: < Afecta
 
-Marco -u- Distance: > Avanza
+Marco -r- Distance: > Avanza
 
-Distance -d- Mother: < Avanza
+Distance -r- Mother: < Avanza
 
-Time -d- Distance: > Pasa
+Time -- Journey: > Pasa
+
+Journey -- Marco
+
+Journey .. Distance: < while Distancia > 0
 
 @enduml
