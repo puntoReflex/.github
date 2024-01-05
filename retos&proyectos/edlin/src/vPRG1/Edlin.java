@@ -46,6 +46,42 @@ class Edlin {
     }
 
     static boolean processActions(String[] document, int[] activeLine) {
-        return false;
-    }    
+        System.out.println("Comandos: [L]inea activa | [E]ditar | [I]ntercambiar | [B]orrar | [S]alir");
+
+        switch (askChar()) {
+            case 'S':   case 's':
+                return false;
+            case 'L':   case 'l':
+                setActiveLine(document, activeLine);
+                break;
+            case 'E':   case 'e':
+                edit(document, activeLine);
+                break;
+            case 'I':   case 'i':
+                exchangeLines(document);
+                break;
+            case 'B':   case 'b':
+                delete(document, activeLine);
+                break;
+        }
+        return true;        
+    }
+    
+    static char askChar() {
+        Scanner input = new Scanner(System.in);
+        return input.next().charAt(0);
+    }
+
+    static void delete(String[] document, int[] activeLine) {
+    }
+
+    static void exchangeLines(String[] document) {
+    }
+
+    static void edit(String[] document, int[] activeLine) {
+    }
+
+    static void setActiveLine(String[] document, int[] activeLine) {
+    }
+
 }
