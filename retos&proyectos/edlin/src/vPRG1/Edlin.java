@@ -89,6 +89,18 @@ class Edlin {
     }
 
     static void setActiveLine(String[] document, int[] activeLine) {
+        boolean validLine = true;
+        do {
+            System.out.print("Indique la nueva línea activa: ");
+            activeLine[0] = askInt();
+            validLine = activeLine[0] >= 0 && activeLine[0] < document.length;
+        } while (!validLine);
+
+    }
+
+    static int askInt() {
+        Scanner input = new Scanner(System.in);
+        return input.nextInt();
     }
 
 }
