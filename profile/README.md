@@ -25,12 +25,12 @@
 
 ||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-[pyViajeDeMarco](/retos&proyectos/viajeMarco/README.md)|[vPRG1](https://github.com/puntoReflex/.github/blob/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java) [🐾](https://github.com/puntoReflex/.github/commits/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java)
-[pyFutbol](/retos&proyectos/futbol/README.md)|||||[IdSw1](https://github.com/puntoReflex/.github/blob/futbol/IdSw1/ModeloDelDominio/retos%26proyectos/futbol/docs/README.md)|
+[pyViajeDeMarco](/retos&proyectos/viajeMarco/README.md)|[vPRG1](https://github.com/puntoReflex/.github/blob/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java) [🐾](https://github.com/puntoReflex/.github/commits/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java)||||[MdD](https://github.com/puntoReflex/.github/blob/viajeMarco/IdSw1/ModeloDelDominio/retos%26proyectos/viajeMarco/docs/domainModel/README.md)
+[pyFutbol](/retos&proyectos/futbol/README.md)|||||[MdD](https://github.com/puntoReflex/.github/blob/futbol/IdSw1/ModeloDelDominio/retos%26proyectos/futbol/docs/domainModel/README.md)|
 [pyCaracol](/retos&proyectos/unCaracol.md)
 [pyWhacAMole](/retos&proyectos/whacAMole.md)
 [pyCarreraDeCamellos](/retos&proyectos/carreraCamellos.md)
-[pyEdlin](/retos&proyectos/edlin.md)
+[pyEdlin](/retos&proyectos/edlin.md)|[vPRG1](https://github.com/puntoReflex/.github/blob/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java) [🐾](https://github.com/puntoReflex/.github/commits/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java)
 [pyRescate](/retos&proyectos/unRescate.md)
 [pyDiasDietasIngestas](/retos&proyectos/diasDietasIngestas.md)
 [rtForIf](/retos&proyectos/forIf.md)
