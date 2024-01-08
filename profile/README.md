@@ -6,8 +6,8 @@
 
 <div align=center>
 
-| Proyecto y Descripción | Imagen ||||||||||||
-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Proyecto y Descripción | Imagen |||||||
+|-|-|-|-|-|-|-|-|
 |[pyCCCF](https://github.com/puntoReflex/pyCCCF)<br>Gestión de cajas en centro comercial, rastreando clientes, colas y ventas con estadísticas diarias actualizadas | ![pyCCCF](https://raw.githubusercontent.com/puntoReflex/pyCCCF/main/imagenes/shoppingCF.png) | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [💻](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java) [🐾](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md)|EDA2|[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md)|IdSw2|
 |[pyTelefono](https://github.com/puntoReflex/pyTelefonoDescacharrado)<br>El juego del teléfono descacharrado en una ludoteca, con niños alterando y pasando mensajes durante dos horas | ![pyTelefono](https://raw.githubusercontent.com/puntoReflex/pyTelefonoDescacharrado/main/images/comicPhone.png) | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [💻](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/ChineseWhispers.java) [🐾](https://github.com/puntoReflex/pyTelefonoDescacharrado/commits/seguimiento-desarrollo-vPRG1/src/vPRG1/ChineseWhispers.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vEDA1/README.md)|EDA2|IdSw1|IdSw2|
 |[pyAspiradora](https://github.com/puntoReflex/pyAspiradora)<br>Aspiradora autónoma que limpia una superficie, evita obstáculos, gestiona batería y basura, interactuando con gato aleatorio | ![pyAspiradora](https://raw.githubusercontent.com/puntoReflex/pyAspiradora/main/images/rectangularRoom.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
