@@ -1,8 +1,8 @@
-# Proyectos
+# Introducción
 
 > [*"Acerca de"*](https://github.com/puntoReflex/.github/blob/main/procesoDeCreacion.md) del proceso de creación: una propuesta de cómo leer este repo...
 
----
+## Proyectos
 
 <div align=center>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-## Proyectos y retos candidatos
+## Otros proyectos y retos candidatos
 
 <div align=center>
 
