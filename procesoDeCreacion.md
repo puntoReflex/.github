@@ -9,19 +9,14 @@ Además, se hace un esfuerzo constante por documentar detalladamente el proceso 
 
 ## ¿Cómo?
 
-Para el caso de un reto, por ejemplo el CCCF, tendríamos:
+Para el caso de un reto, por ejemplo el CCCF, tendríamos el proyecto, su descripción y las diferentes propuestas de solución.
 
-<div align=center>
+<div align=center border=1>
 
-|[pyCCCF](https://github.com/puntoReflex/pyCCCF)|⬅️ Página principal|
-|:-:|-|
-<a href="https://github.com/puntoReflex/pyCCCF/blob/main/enunciado.md"><img src="https://raw.githubusercontent.com/puntoReflex/pyCCCF/main/imagenes/shoppingCF.png" width=200></a>|⬅️ Enunciado
-[**PRG1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/README.md) / PRG2| ⬅️↙️ Propuestas de solución
-[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md) / EDA2
-BD1 / BD2
-[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md) / IdSw2 
-SdPp / SiC
-PWeb1 / PWeb2
+|||||||||
+|-|-|-|-|-|-|-|-|
+| ![pyCCCF](https://raw.githubusercontent.com/puntoReflex/pyCCCF/main/imagenes/shoppingCF.png) | **[pyCCCF](https://github.com/puntoReflex/pyCCCF)**: Gestión de cajas en centro comercial, rastreando clientes, colas y ventas con estadísticas diarias actualizadas | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [💻](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java) [🐾](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md)|EDA2|[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md)|IdSw2|
+
 
 </div>
 
