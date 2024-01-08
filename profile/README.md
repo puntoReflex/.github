@@ -6,24 +6,16 @@
 
 <div align=center>
 
-| Proyecto y Descripción | Imagen |||||||
+|Proyecto||||||||
 |-|-|-|-|-|-|-|-|
 |[pyCCCF](https://github.com/puntoReflex/pyCCCF)<br>Gestión de cajas en centro comercial, rastreando clientes, colas y ventas con estadísticas diarias actualizadas | ![pyCCCF](https://raw.githubusercontent.com/puntoReflex/pyCCCF/main/imagenes/shoppingCF.png) | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [💻](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java) [🐾](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md)|EDA2|[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md)|IdSw2|
 |[pyTelefono](https://github.com/puntoReflex/pyTelefonoDescacharrado)<br>El juego del teléfono descacharrado en una ludoteca, con niños alterando y pasando mensajes durante dos horas | ![pyTelefono](https://raw.githubusercontent.com/puntoReflex/pyTelefonoDescacharrado/main/images/comicPhone.png) | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [💻](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/ChineseWhispers.java) [🐾](https://github.com/puntoReflex/pyTelefonoDescacharrado/commits/seguimiento-desarrollo-vPRG1/src/vPRG1/ChineseWhispers.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vEDA1/README.md)|EDA2|IdSw1|IdSw2|
 |[pyAspiradora](https://github.com/puntoReflex/pyAspiradora)<br>Aspiradora autónoma que limpia una superficie, evita obstáculos, gestiona batería y basura, interactuando con gato aleatorio | ![pyAspiradora](https://raw.githubusercontent.com/puntoReflex/pyAspiradora/main/images/rectangularRoom.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
 |[pyBatalla](https://github.com/puntoReflex/pyBatalla)<br>Guerrero con hacha y vampiro ágil luchan en una batalla por turnos. El usuario controla las armas del guerrero, el vampiro ataca al azar | ![pyBatalla](https://raw.githubusercontent.com/puntoReflex/pyBatalla/main/imagenes/charcoal-drawing.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
-
-
-
----
-
-|[pyAscensores](https://github.com/puntoReflex/pyAscensores)|[pyMundo](https://github.com/puntoReflex/pyMundo)|[pyExpendedoras](https://github.com/puntoReflex/pyExpendedoras)|[pyHojaDeCalculo](https://github.com/puntoReflex/pyHojaDeCalculo)|
-|:-:|:-:|:-:|:-:|
-|<img src="https://raw.githubusercontent.com/puntoReflex/pyAscensores/main/images/pyAscensores.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyMundo/main/images/pyMundo.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyExpendedoras/main/images/pyExpendedoras.png">|<img src="https://raw.githubusercontent.com/puntoReflex/pyHojaDeCalculo/main/images/pyHojaDeCalculo.png">
-*Edificio con ascensores automatizados, limitados a 6 personas y sensible a proximidad y dirección*|*Un mundo abierto, con diferentes terrenos y medios de transporte, ciclo de día/noche y NPCs*|*Máquinas expendedoras con seguimiento de productos, dinero, inventario, atascos y averías*|*Hoja de cálculo en consola, navegación con teclas, edición y restricciones de celda*
-PRG1 / PRG2|PRG1 / PRG2|PRG1 / PRG2|PRG1 / PRG2|
-EDA1 / EDA2|EDA1 / EDA2|EDA1 / EDA2|EDA1 / EDA2
-IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2|IdSw1 / IdSw2
+|[pyAscensores](https://github.com/puntoReflex/pyAscensores)<br>Edificio con ascensores automatizados, limitados a 6 personas y sensible a proximidad y dirección | ![pyAscensores](https://raw.githubusercontent.com/puntoReflex/pyAscensores/main/images/pyAscensores.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
+|[pyMundo](https://github.com/puntoReflex/pyMundo)<br>Un mundo abierto, con diferentes terrenos y medios de transporte, ciclo de día/noche y NPCs | ![pyMundo](https://raw.githubusercontent.com/puntoReflex/pyMundo/main/images/pyMundo.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
+|[pyExpendedoras](https://github.com/puntoReflex/pyExpendedoras)<br>Máquinas expendedoras con seguimiento de productos, dinero, inventario, atascos y averías | ![pyExpendedoras](https://raw.githubusercontent.com/puntoReflex/pyExpendedoras/main/images/pyExpendedoras.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
+|[pyHojaDeCalculo](https://github.com/puntoReflex/pyHojaDeCalculo)<br>Hoja de cálculo en consola, navegación con teclas, edición y restricciones de celda | ![pyHojaDeCalculo](https://raw.githubusercontent.com/puntoReflex/pyHojaDeCalculo/main/images/pyHojaDeCalculo.png) |PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2|
 
 </div>
 
