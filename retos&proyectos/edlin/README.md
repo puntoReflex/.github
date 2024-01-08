@@ -1,4 +1,4 @@
-<img src="../images/edlin.png" width="40%" align="right"/>
+<img src="../../images/edlin.png" width="40%" align="right"/>
 
 # pyEdlin
 
