@@ -19,8 +19,17 @@ class Rescue {
         final int MAX_SOLDIERS = 16;
 
         putSoldiers(sea, MAX_SOLDIERS);
+        boolean isPlaying = true;
+        final int MAX_MOVEMENTS = 50;
+        int movements = 0;
 
-        printSea(sea);
+        while (isPlaying) {
+            movements++;
+            System.out.println("Turno " + movements + " / " + "Rescatados " + countRescued(sea));
+            printSea(sea);
+            askMovement(sea);
+            isPlaying = (movements < MAX_MOVEMENTS && countRescued(sea) < MAX_SOLDIERS);
+        }
     }
 
     static void printSea(int[][] sea) {
