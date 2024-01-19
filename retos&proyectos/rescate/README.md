@@ -1,4 +1,4 @@
-<img src="../images/rescate.png" width="40%" align="right"/>
+<img src="../../images/rescate.png" width="40%" align="right"/>
 
 # pyRescateDeNaufragio
 

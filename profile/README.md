@@ -31,7 +31,7 @@
 [pyWhacAMole](/retos&proyectos/whacAMole.md)
 [pyCarreraDeCamellos](/retos&proyectos/carreraCamellos.md)
 [pyEdlin](/retos&proyectos/edlin.md)|[📜](https://github.com/puntoReflex/.github/blob/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java) [🐾](https://github.com/puntoReflex/.github/commits/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java)
-[pyRescate](/retos&proyectos/unRescate.md)
+[pyRescate](/retos&proyectos/rescate/README.md)
 [pyDiasDietasIngestas](/retos&proyectos/diasDietasIngestas.md)
 [pyAlchemy](/retos&proyectos/alchemy.md)
 [rtForIf](/retos&proyectos/forIf.md)
