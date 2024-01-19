@@ -32,10 +32,32 @@ class Rescue {
         }
     }
 
+    static void askMovement(int[][] sea) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingresa fila y columna");
+        int row = scanner.nextInt();
+        int col = scanner.nextInt();
+        if (sea[row][col] < 0) {
+            sea[row][col] = sea[row][col] * -1;
+        }
+    }
+
+    static int countRescued(int[][] sea) {
+        int soldiersNumber = 0;
+        for (int row = 0; row < sea.length; row++) {
+            for (int col = 0; col < sea[row].length; col++) {
+                if (sea[row][col] == 2) {
+                    soldiersNumber++;
+                }
+            }
+        }
+        return soldiersNumber;
+    }
+
     static void printSea(int[][] sea) {
         for (int row = 0; row < sea.length; row++) {
             for (int col = 0; col < sea[row].length; col++) {
-                System.out.print(sea[row][col]);
+                System.out.print(map(sea[row][col]));
             }
             System.out.println();
         }
