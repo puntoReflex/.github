@@ -25,8 +25,7 @@ class Rescue {
 
         while (isPlaying) {
             movements++;
-            System.out.println("Turno " + movements + " / " + "Rescatados " + countRescued(sea));
-            printSea(sea);
+            printSea(sea, movements);
             askMovement(sea);
             isPlaying = (movements < MAX_MOVEMENTS && countRescued(sea) < MAX_SOLDIERS);
         }
@@ -54,13 +53,21 @@ class Rescue {
         return soldiersNumber;
     }
 
-    static void printSea(int[][] sea) {
+    static void printSea(int[][] sea, int movements) {
+        printLine(sea.length);
+        System.out.println("Turno " + movements + " / " + "Rescatados " + countRescued(sea));
+        printLine(sea.length);
         for (int row = 0; row < sea.length; row++) {
             for (int col = 0; col < sea[row].length; col++) {
                 System.out.print(map(sea[row][col]));
             }
             System.out.println();
         }
+        printLine(sea.length);
+    }
+
+    private static void printLine(int length) {
+        System.out.println("---".repeat(length));
     }
 
     static String map(int i) {
