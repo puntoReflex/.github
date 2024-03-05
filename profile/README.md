@@ -6,8 +6,9 @@
 
 <div align=center>
 
-|||||||||
+|||Estructurado|OOP|||Diseño||
 |-|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|![](https://raw.githubusercontent.com/puntoReflex/.github/main/images/viajeMarco.png)|**[pyViajeDeMarco](/retos&proyectos/viajeMarco/README.md):** Versión digital del viaje de Marco a Argentina, en busca de su madre, acompañado de su mono Amedio.|[📜](https://github.com/puntoReflex/.github/blob/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java) [🐾](https://github.com/puntoReflex/.github/commits/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java)|[📜](https://github.com/mmasias/ViajeMarco/tree/main/src) [🐾](https://github.com/mmasias/ViajeMarco/commits/main/src)|||[MdD](https://github.com/puntoReflex/.github/blob/viajeMarco/IdSw1/ModeloDelDominio/retos%26proyectos/viajeMarco/docs/domainModel/README.md)
 | ![pyCCCF](https://raw.githubusercontent.com/puntoReflex/pyCCCF/main/imagenes/shoppingCF.png) | **[pyCCCF](https://github.com/puntoReflex/pyCCCF)**: Gestión de cajas en centro comercial, rastreando clientes, colas y ventas con estadísticas diarias actualizadas | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [📜](https://github.com/puntoReflex/pyCCCF/blob/main/src/vPRG1/CCCF.java) [🐾](https://github.com/puntoReflex/pyCCCF/commits/main/src/vPRG1/CCCF.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyCCCF/blob/main/src/v000/README.md) [📜](https://github.com/puntoReflex/pyCCCF/tree/main/src/v000)|EDA2|[**IdSw1**](https://github.com/puntoReflex/pyCCCF/blob/main/mdd.md)|IdSw2|
 | ![pyTelefono](https://raw.githubusercontent.com/puntoReflex/pyTelefonoDescacharrado/main/images/comicPhone.png) | **[pyTelefono](https://github.com/puntoReflex/pyTelefonoDescacharrado)**: El juego del teléfono descacharrado en una ludoteca, con niños alterando y pasando mensajes durante dos horas | [**PRG1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/README.md) [📜](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/main/src/vPRG1/ChineseWhispers.java) [🐾](https://github.com/puntoReflex/pyTelefonoDescacharrado/commits/seguimiento-desarrollo-vPRG1/src/vPRG1/ChineseWhispers.java)|PRG2|[**EDA1**](https://github.com/puntoReflex/pyTelefonoDescacharrado/blob/seguimiento-desarrollo-v000/src/v000/README.md) [📜](https://github.com/puntoReflex/pyTelefonoDescacharrado/tree/seguimiento-desarrollo-v000/src/v000) [🐾](https://github.com/puntoReflex/pyTelefonoDescacharrado/commits/seguimiento-desarrollo-v000/src/v000)|EDA2|IdSw1|IdSw2|
 | ![pyAspiradora](https://raw.githubusercontent.com/puntoReflex/pyAspiradora/main/images/rectangularRoom.png) | **[pyAspiradora](https://github.com/puntoReflex/pyAspiradora)**: Aspiradora autónoma que limpia una superficie, evita obstáculos, gestiona batería y basura, interactuando con gato aleatorio |[**PRG1**](https://github.com/puntoReflex/pyAspiradora/blob/vPRG1/src/vPRG1/README.md) [📜](https://github.com/puntoReflex/pyAspiradora/blob/vPRG1/src/vPRG1/Vacuum.java) [🐾](https://github.com/puntoReflex/pyAspiradora/commits/vPRG1/src/vPRG1/Vacuum.java)|PRG2|EDA1|EDA2|IdSw1|IdSw2|
@@ -30,9 +31,9 @@
 [pyCaracol](/retos&proyectos/unCaracol.md)
 [pyWhacAMole](/retos&proyectos/whacAMole.md)
 [pyCarreraDeCamellos](/retos&proyectos/carreraCamellos.md)
-[pyEdlin](/retos&proyectos/edlin.md)|[📜](https://github.com/puntoReflex/.github/blob/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java) [🐾](https://github.com/puntoReflex/.github/commits/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java)
+[pyEdlin](/retos&proyectos/edlin/README.md)|[📜](https://github.com/puntoReflex/.github/blob/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java) [🐾](https://github.com/puntoReflex/.github/commits/edlin/prg1/desarrollo/retos%26proyectos/edlin/src/vPRG1/Edlin.java)
 [pyRescate](/retos&proyectos/rescate/README.md)
-[pyDiasDietasIngestas](/retos&proyectos/diasDietasIngestas.md)
+[pyDiasDietasIngestas](https://github.com/puntoReflex/pyDiaDietaIngesta)
 [pyAlchemy](/retos&proyectos/alchemy.md)
 [rtForIf](/retos&proyectos/forIf.md)
 [rtEscalasAcordes](/retos&proyectos/escalasAcordes.md)
