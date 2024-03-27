@@ -56,5 +56,5 @@ Basándose en el escenario descrito, se pide diseñar un sistema que refleje la 
 
 ### 2DO parte II
 
-- La entrega de la parte 2 debe incluir la conversación con el LLM, exportada desde el mismo. Se debe enviar el link al correo manuel.masias@uneatlantico.es con el asunto `EXAMEN PARCIAL IDSW2 23-24`
+- La entrega de la parte 2 debe incluir la conversación con el LLM, exportada desde el mismo. Se debe enviar el link al correo del profesor con el asunto `EXAMEN PARCIAL IDSW2 23-24`
 
