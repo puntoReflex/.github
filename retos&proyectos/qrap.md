@@ -54,4 +54,7 @@ Basándose en el escenario descrito, se pide diseñar un sistema que refleje la 
 - La identificación y aplicación de relaciones entre las clases, como composición, agregación, asociación, y uso. Explique (cuando lo vea necesario) cómo estas relaciones facilitan la interacción entre los módulos y dentro de los mismos.
 - La implementación de herencia (si la considera necesaria y aplicable).
 
+### 2DO parte II
+
+- La entrega de la parte 2 debe incluir la conversación con el LLM, exportada desde el mismo. Se debe enviar el link al correo manuel.masias@uneatlantico.es con el asunto `EXAMEN PARCIAL IDSW2 23-24`
 
