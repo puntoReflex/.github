@@ -39,5 +39,6 @@
 [rtEscalasAcordes](/retos&proyectos/escalasAcordes.md)
 [rtJuegoHerradura](/retos&proyectos/juegoHerradura.md)
 [rtAdivinaNumero](/retos&proyectos/adivinaNumero.md)
+[pyQRAP](/retos&proyectos/qrap.md)
 
 </div>
