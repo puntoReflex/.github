@@ -119,4 +119,4 @@ Estas en el turno 50
 Has rescatado 14
 El juego ha terminado
 
-```bash
+```
