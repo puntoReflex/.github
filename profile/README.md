@@ -28,6 +28,7 @@
 
 ||PRG1|PRG2|EDA1|EDA2|IdSw1|IdSw2
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
+[pyEdificio](/retos&proyectos/edificio.md)
 [pyViajeDeMarco](/retos&proyectos/viajeMarco/README.md)|[📜](https://github.com/puntoReflex/.github/blob/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java) [🐾](https://github.com/puntoReflex/.github/commits/viajeMarco/prg1/desarrollo/retos%26proyectos/viajeMarco/src/vPRG1/Marco.java)|[📜](https://github.com/mmasias/ViajeMarco/tree/main/src) [🐾](https://github.com/mmasias/ViajeMarco/commits/main/src)|||[MdD](https://github.com/puntoReflex/.github/blob/viajeMarco/IdSw1/ModeloDelDominio/retos%26proyectos/viajeMarco/docs/domainModel/README.md)
 [pyFutbol](/retos&proyectos/futbol/README.md)|||||[MdD](https://github.com/puntoReflex/.github/blob/futbol/IdSw1/ModeloDelDominio/retos%26proyectos/futbol/docs/domainModel/README.md)|
 [pyCaracol](/retos&proyectos/unCaracol.md)
