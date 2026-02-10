@@ -17,17 +17,26 @@ class Edlin {
                 "",
                 ""
         };
+        String[] emptyDocument = new String[10];
+        String history[][] = { document,
+                emptyDocument.clone(),
+                emptyDocument.clone(),
+                emptyDocument.clone(),
+                emptyDocument.clone(),
+                emptyDocument.clone()
+        };
+        int activeDocument[] = { 0 };
 
         do {
-            print(document, activeLine);
-        } while (processActions(document, activeLine));
+            print(history, activeDocument, activeLine);
+        } while (processActions(history, activeDocument, activeLine));
     }
 
-    static void print(String[] document, int[] activeLine) {
+    static void print(String[][] history, int[] activeDocument, int[] activeLine) {
         clearScreen();
         printHorizontalLine();
-        for (int line = 0; line < document.length; line++) {
-            System.out.println(line + separator(line, activeLine[0]) + document[line]);
+        for (int line = 0; line < history[activeDocument[0]].length; line++) {
+            System.out.println(line + separator(line, activeLine[0]) + history[activeDocument[0]][line]);
         }
         printHorizontalLine();
     }
@@ -45,26 +54,22 @@ class Edlin {
         System.out.flush();
     }
 
-    static boolean processActions(String[] document, int[] activeLine) {
+    static boolean processActions(String[][] history, int activeDocument[], int[] activeLine) {
         System.out.println("Comandos: [L]inea activa | [E]ditar | [I]ntercambiar | [B]orrar | [S]alir");
-
+        boolean mustContinue = true;
         switch (askChar()) {
-            case 'S':   case 's':
-                return false;
-            case 'L':   case 'l':
-                setActiveLine(document, activeLine);
-                break;
-            case 'E':   case 'e':
-                edit(document, activeLine);
-                break;
-            case 'I':   case 'i':
-                exchangeLines(document);
-                break;
-            case 'B':   case 'b':
-                delete(document, activeLine);
-                break;
+            case 'S', 's' -> mustContinue = !mustContinue;
+            case 'L', 'l' -> setActiveLine(history[activeDocument[0]], activeLine);
+            case 'E', 'e' -> edit(history, activeDocument, activeLine);
+            case 'I', 'i' -> exchangeLines(history[activeDocument[0]]);
+            case 'B', 'b' -> delete(history[activeDocument[0]], activeLine);
+            case 'U', 'u' -> undo(history, activeDocument);
         }
-        return true;
+        return mustContinue;
+    }
+
+    static void undo(String[][] history, int[] activeDocument) {
+        activeDocument[0] = activeDocument[0] > 0 ? activeDocument[0] = activeDocument[0] - 1 : history.length - 1;
     }
 
     static char askChar() {
@@ -73,9 +78,10 @@ class Edlin {
     }
 
     static void delete(String[] document, int[] activeLine) {
-        System.out.println("Esta acción es irreversible: indique el número de línea activa para confirmarlo ["+activeLine[0]+"]");
-        if (askInt()==activeLine[0]) {
-            document[activeLine[0]]="";
+        System.out.println("Esta acción es irreversible: indique el número de línea activa para confirmarlo ["
+                + activeLine[0] + "]");
+        if (askInt() == activeLine[0]) {
+            document[activeLine[0]] = "";
         }
     }
 
@@ -95,15 +101,19 @@ class Edlin {
             destinationLine = askInt();
             validLine = destinationLine >= 0 && destinationLine < document.length;
         } while (!validLine);
-        
+
         temporaryLine = document[destinationLine];
-        document[destinationLine]=document[originLine];
-        document[originLine]=temporaryLine;
+        document[destinationLine] = document[originLine];
+        document[originLine] = temporaryLine;
     }
 
-    static void edit(String[] document, int[] activeLine) {
-        System.out.println("EDITANDO> " + document[activeLine[0]]);
-        document[activeLine[0]] = askString();
+    static void edit(String[][] history, int[] activeDocument, int[] activeLine) {
+        System.out.println("EDITANDO> " + history[activeDocument[0]][activeLine[0]]);
+        String newText = askString();
+        String[] newDocument = history[activeDocument[0]].clone();
+        newDocument[activeLine[0]] = newText;
+        activeDocument[0] = activeDocument[0] < history.length - 1 ? activeDocument[0] = activeDocument[0] + 1 : 0;
+        history[activeDocument[0]] = newDocument;
     }
 
     static String askString() {
